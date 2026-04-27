@@ -120,7 +120,7 @@ Hamilton also has one GPU node with the following configuration (N.B. the assess
 
 ### Libraries and modules
 
-The system uses [lmod](https://lmod.readthedocs.io/) to manage compute environments such as loading compilers etc. The documentation of the Peano codebase includes instructions for [setting up the working environment on Hamilton]([Peano](https://hpcsoftware.pages.gitlab.lrz.de/Peano/dc/d26/page_machines_hamilton.html)):
+The system uses [lmod](https://lmod.readthedocs.io/) to manage compute environments such as loading compilers etc. The documentation of the Peano codebase includes instructions for [setting up the working environment on Hamilton](https://hpcsoftware.pages.gitlab.lrz.de/Peano/dc/d26/page_machines_hamilton.html):
 
 ```bash
 module purge
